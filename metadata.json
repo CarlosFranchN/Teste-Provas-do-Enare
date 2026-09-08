@@ -1,0 +1,6 @@
+{
+  "name": "FSRS Questões & Flashcards - EdTech Prep",
+  "description": "Plataforma moderna de resolução de questões e revisão com algoritmo de repetição espaçada FSRS (Free Spaced Repetition Scheduler).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
